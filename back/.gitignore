@@ -1,0 +1,17 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# i do not like the wrapper
+gradle
+gradlew
+gradlew.bat
+
+# neither eclipse, netbeans, idea...
+.settings
+.classpath
+.project
+.iml
+.idea
