@@ -1,0 +1,3 @@
+// # gradle subproject layout allows to manage both subprojects from toplevel  
+include 'front'
+include 'back'

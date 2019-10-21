@@ -7,3 +7,9 @@ published on the same tomcat.
 
 - java 8 (newer versions might explode)
 - gradle 5.6 (install it with [sdkman](https://sdkman.io/))
+
+## Running
+
+```bash
+gradle appRun
+```

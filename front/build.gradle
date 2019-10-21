@@ -1,0 +1,9 @@
+// task to start dev server
+task frontDev(type:Exec) {
+  commandLine 'npm', 'run', 'serve'
+}
+
+// task to build frontend project
+task frontBuild(type:Exec) {
+  commandLine 'npm', 'run', 'build'
+}
